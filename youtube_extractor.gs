@@ -1,4 +1,4 @@
-const spreadSheetId = '1lwgcY3yLb_HOdWpN_c2fATYpeCmQvpJ1QnThqgSOnVw';
+const spreadSheetId = 'SPREADSHEET_ID_HERE';
 
 
 const ss = SpreadsheetApp.openById(spreadSheetId);
